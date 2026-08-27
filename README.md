@@ -10,9 +10,27 @@ and the frontend defensively re-checks it again before rendering. The
 result is structured data driving stateful components — never raw model
 text dropped into a chat bubble.
 
-## Live demo
+## Preview
 
-`[add your deployed URL here if you deploy it]`
+### Landing & Input
+
+![StudyFlow AI landing page](docs/landing-page.png)
+
+### Interactive 3D Flashcards
+
+![Flashcard question](docs/flashcard-question-1.png)
+
+![Flashcard answer](docs/flashcard-answer-1.png)
+
+![Second flashcard question](docs/flashcard-question-2.png)
+
+![Second flashcard answer](docs/flashcard-answer-2.png)
+
+### Interactive Quiz
+
+![Quiz with correct answer](docs/quiz-correct.png)
+
+![Quiz with incorrect answer and feedback](docs/quiz-wrong.png)
 
 ## What it does
 
